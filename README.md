@@ -1,4 +1,4 @@
-# 📊 Credit & Financial Risk Analysis of Kellogg Company (2020–2024)
+# 📊 Credit & Financial Risk Analysis of Kellogg Company 
 
 **Source**: Skillfine Learning  
 **Focus**: Evaluating Kellogg Company’s creditworthiness using financial data and 10-K filings, with sector benchmarking in the Food & Beverage (F&B) industry.
