@@ -55,5 +55,5 @@ This project involved a comprehensive credit and financial risk assessment of **
   - Strengthen **short-term liquidity buffers**
   - Optimize **capital structure** to improve leverage metrics.
 
-[![Download Slides]](./Project_Kellogg.pdf)
+[![Download Slides]](./Project_Kellogg's.pdf)
 
