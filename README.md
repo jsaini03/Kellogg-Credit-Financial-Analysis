@@ -52,5 +52,6 @@ This project involved a comprehensive credit and financial risk assessment of **
   - Declining current ratio.
   - Margin compression.
 - **Recommendations**:
-  - Strengthen **short-ter**
+  - Strengthen **short-term liquidity buffers**
+  - Optimize **capital structure** to improve leverage metrics.
 
